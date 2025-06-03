@@ -1,6 +1,4 @@
-Here’s a polished and professional `README.md` file for your Influenza Prediction project. It includes a clear structure, descriptions, setup instructions, and model results guidance:
 
----
 
 # 🦠 Influenza Infection Prediction in New York
 
@@ -142,16 +140,12 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## 👤 Author
 
-**Your Name**
-📧 [your.email@example.com](mailto:your.email@example.com)
-💼 [LinkedIn Profile](https://www.linkedin.com)
+**Ahmed Khaled**
+
 
 ---
 
 ## 📝 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIDOKHALED License.
 
----
-
-Let me know if you'd like me to generate badges (e.g., for Python version, license, or last updated) or help you deploy this as a web dashboard!
