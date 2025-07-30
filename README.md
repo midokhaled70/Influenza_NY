@@ -140,7 +140,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## 👤 Author
 
-**ahm Khaled**
+**ahme Khaled**
 
 
 ---
